@@ -1,13 +1,13 @@
 # Country Wise JSON data
 
-> It contains the following data,
+It contains the following data,
 
-Country Name,
+> Country Name,
 
-Country Short Name,
+> Country Short Name,
 
-Country Number Code,
+> Country Number Code,
 
-Country Dial Code,
+> Country Dial Code,
 
-Country Nationality,
+> Country Nationality,
